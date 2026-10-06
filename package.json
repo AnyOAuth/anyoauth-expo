@@ -1,0 +1,44 @@
+{
+  "name": "@anyoauth/expo",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "AnyOAuth expo SDK",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js"
+    },
+    "./native": {
+      "types": "./native.d.ts",
+      "import": "./native.js"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "schema.json",
+    "README.md",
+    "LICENSE",
+    "native.js",
+    "native.d.ts"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "node test/check.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnyOAuth/anyoauth-expo.git"
+  },
+  "homepage": "https://github.com/AnyOAuth/anyoauth-expo",
+  "bugs": {
+    "url": "https://github.com/AnyOAuth/anyoauth-expo/issues"
+  }
+}

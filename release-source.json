@@ -1,0 +1,30 @@
+{
+  "target": "expo",
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "repository": "https://github.com/AnyOAuth/anyoauth-expo",
+  "release": "https://github.com/AnyOAuth/anyoauth-expo/releases/tag/v0.1.0",
+  "schemaSha256": "1b99cb23da24b2aa0af33d45aadf907de460185671bc29fa61402450e390d6a2",
+  "sourceCommit": "c44e7460cbebe26a6baa00bc6c4ee2f48d69e907",
+  "files": {
+    ".github/workflows/verify.yml": "2a5dcc038427c28e750358d464bf6413b7670229c658e3b23fdd1076bff89c63",
+    ".gitignore": "108d2b818b63d1f2ffaefee13455961edf1544f49ccf847396de3e85eb5ad724",
+    "LICENSE": "4c2de8ffb6dc3218664d77c0012dc6061465b90558904b2fe6b6e0a8a6c7c32f",
+    "README.md": "37db95403071a3ce8bb8f272d35a32b8a9d56deca45ff7a7ff44d4b81dec6448",
+    "index.d.ts": "f916853d52c43ff5d22fe15bc7c1c7fda5cc8a68b6fb63f6058be10c916f398c",
+    "index.js": "45cda1f7a5511b845b4d9c69f4fa5cae77e16dced124feb32b154942dc296661",
+    "native.d.ts": "00ac4264528b50940a448856337ed6316b14a15d231372b4fe2a35525d94bfca",
+    "native.js": "2ff0f0e08ced6b43cbe55febc6b552cc93febc7ce15b4f652337c63fb4b030fe",
+    "package.json": "2881d65ec1c5f38aadd47b25a97a085c61ff554ad6bf5549f114a96d9c80ccbe",
+    "provenance.json": "9ddbf84e6eb3d7810a9d4c30d6940952fadc27b608a03b8a0bb6d2a6dc37f29b",
+    "schema.json": "61a2ea18a61121da66984854d91702bd45120a30f16469a63bd3b1c8a924ac8b",
+    "test/check.mjs": "844c6e0f71850bb081674afc77abea9f75bd30b222e4650b034bc89f9a85e1b1",
+    "test/conformance.mjs": "031ca45abce638ec4043e3850dd93259bda75728f8817a9692ace86a75d89031",
+    "test/conformance.native.mjs": "6471aa48eb59ab631abea33e6c824a703eaf471fc6cdb25559f071b927443b37",
+    "test/crypto.stub.mjs": "cf5fcc11f1841e291a3cc218c6c9d45f701e6dd926a4b9939330edaf0f31b8bf",
+    "test/models.mjs": "ea96708eaebc85055ee01028f65bf04b30dac0c42ff91be770044c34aaf0b754",
+    "test/native.mjs": "7180aebe2fc23a6579c3704b60bd24be2b012c0219d12eadb0fd3de9e14e4511",
+    "tsconfig.json": "5e3e1cc0c4b7ffc3462693503d8947cc76175ae97c462f0bd36455111b55a510",
+    "verify.mjs": "6f5eff1eeabc1d62b20d6204af877a67bbf9e5d2cacae9d058d9cd3c580bd477"
+  }
+}

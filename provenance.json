@@ -1,0 +1,26 @@
+{
+  "version": "0.1.0",
+  "schemaSha256": "1b99cb23da24b2aa0af33d45aadf907de460185671bc29fa61402450e390d6a2",
+  "generatorVersion": "1",
+  "target": "expo",
+  "files": [
+    ".github/workflows/verify.yml",
+    ".gitignore",
+    "LICENSE",
+    "README.md",
+    "index.d.ts",
+    "index.js",
+    "native.d.ts",
+    "native.js",
+    "package.json",
+    "schema.json",
+    "test/check.mjs",
+    "test/conformance.mjs",
+    "test/conformance.native.mjs",
+    "test/crypto.stub.mjs",
+    "test/models.mjs",
+    "test/native.mjs",
+    "tsconfig.json",
+    "verify.mjs"
+  ]
+}
